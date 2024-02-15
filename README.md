@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/C4E12AQEfBKvM9BLwGw/article-cover_image-shrink_600_2000/0/1565973544206?e=2147483647&v=beta&t=IeKc9ht4O8nmJG4VJiMNlFZ2m-AQtL2srFzfZGcscIY)](https://media.tenor.com/pyhXohvz1KsAAAAC/wrench-watch-dogs.gif)
+
 <h1 align="center">Hi 👋, I'm Kesari Nandan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="left" alt="Coding" width = 400px src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
